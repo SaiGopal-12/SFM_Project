@@ -43,7 +43,7 @@ python 3dcode.py
 
 ---
 
-## 🖼️ Sample Input
+<!-- ## 🖼️ Sample Input
 
 ![Sample View 1](image1.jpg)
 ![Sample View 2](image2.jpg)
@@ -61,4 +61,4 @@ python 3dcode.py
 
 ## 📄 License
 
-This project is for academic use only. Please contact the author for collaboration or reuse.
+This project is for academic use only. Please contact the author for collaboration or reuse. -->
